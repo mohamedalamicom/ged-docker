@@ -7,4 +7,4 @@
 - NGINX et PHP-FPM : Pour Symfony
 - NODE : Pour Angular
 
-![Angular-Symfony Schema](./Angular-Symfony/Angular-Symfony.png)
+![Angular-Symfony Schema](https://raw.githubusercontent.com/mohamedalamicom/ged-docker/master/Angular-Symfony/Angular-Symfony.png)
